@@ -1,4 +1,6 @@
 # Lucent-theme-for-trollboard
-Este tema foi exportado por mim
-para funcionar no trollboard do trollstore
-funcional do 14.0-17.0 (APENAS TROLLSTORE)
+This theme was exported by me
+
+To work on the trollstore trollboard
+
+Functional of 14.0-17.0 (TROLLSTORE ONLY)
